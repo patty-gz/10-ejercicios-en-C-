@@ -1,0 +1,13 @@
+EJERCICIOS EN CONSOLA
+1.	Realizar una simulación de 100 personas que votan(aleatorio) y se contabilizar los votos además de mostrar al ganador de las elecciones.
+2.	Realizar un programa que muestre los números primos que hay entre 1 y 100 y también los no primos usando hilos.
+3.	Realizar un programa que calcule la factorial de un numero con hilos.
+4.	Realizar un programa donde se muestra la suma de dos números mediante hilos.
+5.	Realizar un programa que muestra el mayor y el menor de los números usando array e hilos.
+EJERCICIOS EN WINDOWS FORMS
+6.	Realizar un programa que calcule la nómina de un trabajador.
+
+7.	Realizar una simulación de la inscripción a un programa de idiomas.
+8.	Realizar un programa que te permite gestionar las notas de un alumno y devolver su promedio al igual que si está aprobado o no.
+9.	Realizar un programa que te permita ver cuanto demora una barra de progreso en cargarse.
+10.	Realizar un programa permite pasar un texto a una barra de texto usando hilos
